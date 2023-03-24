@@ -1,0 +1,4 @@
+{
+  "tcp": ["www.baiduasdfas.com:80", "www.jd.com:80"],
+  "http": ["http://www.baidu.com"]
+}
