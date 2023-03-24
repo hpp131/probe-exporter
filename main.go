@@ -1,15 +1,11 @@
 package main
 
 import (
+	"blackbox-exporter/probe"
 	"fmt"
-	"test/probe"
 )
 
 const fileName = "./target.json"
-
-//func init()  {
-//
-//}
 
 func main() {
 	target := new(Target)
